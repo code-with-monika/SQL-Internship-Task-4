@@ -4,7 +4,8 @@ Objective**
 To learn how to summarize and analyze tabular data using aggregate functions and the GROUP BY clause in SQL.
 
 **Key Concepts**
-**🔹Aggregate Functions**
+
+**Aggregate Functions**
 
 **COUNT():** Counts rows or values.
 
@@ -16,13 +17,15 @@ To learn how to summarize and analyze tabular data using aggregate functions and
 
 **ROUND():** Rounds numeric values to specific decimal places.
 
-**🔹 GROUP BY**
+
+**GROUP BY**
 
 Used to group rows that have the same values into summary rows.
 
 Works with aggregate functions to give grouped results.
 
-**🔹 HAVING**
+
+**HAVING**
 
 Similar to WHERE but used after aggregation to filter grouped results.
 
