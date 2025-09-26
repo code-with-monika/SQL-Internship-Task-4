@@ -1,5 +1,6 @@
-**Task 4 – Aggregate Functions and Grouping
-Objective**
+**Task 4 – Aggregate Functions and Grouping**
+
+**Objective**
 
 To learn how to summarize and analyze tabular data using aggregate functions and the GROUP BY clause in SQL.
 
